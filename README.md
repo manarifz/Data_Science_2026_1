@@ -45,9 +45,3 @@ The project workflow is structured into six core stages:
 | 🗺️ **Area Estimation** | The Random Forest model estimated a total paddy extent of **19,252.00 hectares**, aligning closely (`+4.28%` variance) with the official district-wide inventory from Pihak Berkuasa Tempatan (PBT) Kedah. |
 | 🔍 **Feature Importance** | Sentinel-1 Synthetic Aperture Radar cross-polarized backscatter (**SAR_VH**) emerged as the single most decisive predictor for tropical paddy delineation across all models. |
 | ⚖️ **Economic Impact** | The simulation highlights the absolute indispensability of federal interventions; **government price support and input subsidies account for approximately 65.56% of a farmer's net take-home profit**, safeguarding rural livelihoods. |
-
-<<<<<<< HEAD
----
-=======
----
->>>>>>> 9c10fe5358ed6d4106d878c9da11f2fd1273896b
