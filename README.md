@@ -30,7 +30,7 @@ The project workflow is structured into six core stages:
    Projects datasets into a shared Cartesian coordinate system (EPSG:3375) and pairs ground-truth observations with their closest satellite pixels using a strict 50-meter maximum distance threshold.
 
 5. **🧠 Model Development**  
-   Trains, optimizes, and evaluates five algorithms—**Random Forest, Support Vector Machine (SVM), XGBoost, Multilayer Perceptron (MLP), and a 1D Convolutional Neural Network (CNN)**—using rigorous 5-Fold Spatial Block Cross-Validation.
+   Trains, optimizes, and evaluates five algorithms including **Random Forest, Support Vector Machine (SVM), XGBoost, Multilayer Perceptron (MLP), and a 1D Convolutional Neural Network (CNN)** using rigorous 5-Fold Spatial Block Cross-Validation.
 
 6. **📈 Yield & Economic Simulation**  
    Translates spatial area predictions into financial metrics to simulate the livelihoods of 10,000 local smallholder farmers. The simulation calculates land allocation and uses regional benchmarks (4.7 tonnes of yield per hectare) to formulate gross yield income, factoring in the base market price, the Skim Subsidi Harga Padi (SSHP), input subsidies, production costs, and obligatory religious taxes (zakat).
